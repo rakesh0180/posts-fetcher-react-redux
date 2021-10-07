@@ -6,7 +6,7 @@ import configureStore from "./store/configureStore";
 
 const store = configureStore();
 
-console.log("store", store.getState());
+// console.log("store", store.getState());
 
 // store.dispatch(postsGetData());
 
