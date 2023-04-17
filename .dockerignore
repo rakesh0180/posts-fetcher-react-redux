@@ -3,3 +3,4 @@ node_modules
 *.txt
 .git 
 .gitignore
+build
